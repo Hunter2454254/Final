@@ -1,0 +1,32 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #141414;
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bg-cultured {
+    background-color: #F5F5F5;
+}
+
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #10C9C3 !important;
+}
+
+.nav-link {
+    font-weight: 700;
+    color: #787878 !important;
+}
+
+.btn-primary {
+    background-color: #10C9C3;
+    border-color: #10C9C3;
+}
+
+.progress-bar {
+    background-color: #10C9C3;
+}
